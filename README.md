@@ -1,16 +1,14 @@
 ### Hi there. I am Angel 💘
 
-<!--
-**Angel17770/Angel17770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
+- 🖌 I’m currently working on the design of a sneaker store website 👟
+- 📕 Currently learning CGI
+- 👀 I am looking for cooperation with interesting people who have a non-standard view of the world
+- 💬 Ask me about Nike and basketball
+- 📫 How to contact me:
+    - email: angelinaivanova771970@gmail.com
+    - Telegram: [ange17770](https://t.me/ange17770)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗼 Interesting fact: I love Paris
+
