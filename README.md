@@ -10,5 +10,5 @@ About me:
 - email: angelinaivanova771970@gmail.com
 - Telegram: [ange17770](https://t.me/ange17770)
 
-  -  Interesting fact: I love Paris and anime!
+  Interesting fact: I love Paris.
 
